@@ -4,3 +4,6 @@ langchain_community
 python-dotenv
 langchain-google-vertexai
 langchain-google-genai
+langchain_groq
+langgraph
+langchain_tavily
